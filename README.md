@@ -6,7 +6,7 @@ Sales Insight of an Online Store in Europe Using (POWER-BI)
 
 ## Problem Statement
 
-This dashboard helps the Business understand their customers ndSales better. It helps the Business know how their Sales in Various Regions and  Categorise are Expanded. Through different Buying Patterns, they get to know their improvement area, & thus they can improve their Products by identifying these area. It also lets them know the  Orders & Category Sales, thus since by using this dashboard they have identified this Queries and they can further work on factors responsible for these unwanted Losses.
+This dashboard helps the Business understand their customers And Sales better. It helps the Business know how their Sales in Various Regions and  Categorise are Expanded. Through different Buying Patterns, they get to know their improvement area, & thus they can improve their Products by identifying these area. It also lets them know the  Orders & Category Sales, thus since by using this dashboard they have identified this Queries and they can further work on factors responsible for these unwanted Losses.
 
 Since, Amount Of Sales from North (~22%), South (~19%) and Central (59%) While ,
 
