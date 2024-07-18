@@ -56,9 +56,10 @@ for creating new column following DAX expression was written;
 
  # Report Snapshot (Power BI DESKTOP)
 
- ![Screenshot 2024-07-16 232520](https://github.com/user-attachments/assets/e2aa3fc2-fd96-4a2c-9b6c-dcab5d4c15e5)
+ ![Region Demographics Dashboard](https://github.com/user-attachments/assets/f074f3f8-36a3-4532-a1d3-d2d7aea31623)
  
-![Screenshot 2024-07-16 232545](https://github.com/user-attachments/assets/13e8dea4-0814-46f5-bbb9-ef94c3702271)
+![Category and Sub_Category Sales](https://github.com/user-attachments/assets/89e7d20f-d8e8-436c-802c-e5044a790366)
+
 
 # Insights
 
